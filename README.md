@@ -5,4 +5,5 @@ Find NE solutions
 2. run the *findsol* function, to find the solution that converges at (which's meant to be NE)
 # notes 
 * round up the final solutions 
+* on applicable for two-player games
 
