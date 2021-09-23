@@ -127,7 +127,7 @@ class Game():
 
 def findSol(game:Game):
      updated=game.updateStrategies()
-     print([v for p,v in updated.items()])
+    #  print([v for p,v in updated.items()])
      for pl in game.pls:
          for act in pl.Actions():
              if updated[pl][act] != pl.Strat(act):
